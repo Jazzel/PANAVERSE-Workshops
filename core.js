@@ -152,5 +152,3 @@ console.log(a4++);
 
 // pre increment - pre means pehle
 // console.log(++a4);
-
-// functions
